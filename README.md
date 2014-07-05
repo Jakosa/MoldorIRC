@@ -1,0 +1,4 @@
+MoldorIRC
+=========
+
+Moldor Irc Bot
